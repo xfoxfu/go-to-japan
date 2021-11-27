@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "0b55b4f59fa7bb92",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bc34e0e61d8ace3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "首页.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37adc816ef9f01b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7ea59cdd6eb5968",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af2f3da0d66313af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b60aa4f2726b8a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4f83b6a5434c56a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9cf417dcb35ea91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc42ef007af01de9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "首页.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8bc34e0e61d8ace3",
+  "lastOpenFiles": [
+    "首页.md",
+    "研究/程序语言理论.md",
+    "大学/东京大学.md",
+    "大学/早稻田大学.md",
+    "大学/京都大学.md",
+    "大学/东京工业大学.md",
+    "东京工业大学.md",
+    "测试.md"
+  ]
+}
