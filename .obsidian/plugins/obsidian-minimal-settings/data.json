@@ -13,7 +13,7 @@
   "textNormal": 16,
   "textSmall": 13,
   "minimalIcons": true,
-  "fancyCursor": true,
+  "fancyCursor": false,
   "trimNames": true,
   "fullWidthMedia": true,
   "bordersToggle": true,
@@ -21,8 +21,8 @@
   "focusMode": false,
   "underlineInternal": true,
   "underlineExternal": true,
-  "useSystemTheme": false,
+  "useSystemTheme": true,
   "folding": false,
-  "relationLinesPreview": false,
+  "relationLinesPreview": true,
   "relationLinesEdit": false
 }
